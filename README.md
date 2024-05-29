@@ -1,17 +1,15 @@
 # Hi 👋
 
-Hi, I'm Ash, a Software Engineer/Developer based in Manchester, UK. Thanks for taking a look at my profile!
+Hi, I'm Ash, a Software Engineer/Developer based in Manchester, UK. Feel free to '@' me if you have any ideas or projects you'd like to collaborate on.
 
 ## About Ash
 
-|||
-|---|---|
-| Looking for new opportunities | ✔️ |
-| Available now | ✔️ |
-| Working on | [cactuar](https://www.github.com/ashscodes/cactuar), [PsdEdit](https://www.github.com/ashscodes/psdedit) |
+I am currently working with, learning more about and :heart:'ing [Go](https://go.dev/), but can also be found never far from my first love, [.NET](https://dotnet.microsoft.com/en-us/).
 
-Analytical, conscientious, driven, goal-orientated and self-taught developer and engineer focused on user value. Keen interest in application, tool, web and embedded development. Respectful of opportunities to meet new challenges, learn new coding languages and supporting technologies.
- 
+I currently use Go at work to build APIs for a major site that is prominent in the UK and expanding in to more countries and regions by the day.
+
+### My Key Skills
+
 - C# | PowerShell | JavaScript / TypeScript | Go | .NET Core | ASP.NET Core | React | xUnit | Pester | REST
 - Cloud (Azure) | MS Graph | Automation | Infrastructure | Backend | Frontend | Cross-Platform | SQL | NoSQL | Agile
 - English (Native), Russian (Advanced), Spanish (Lower Intermediate), and French (Basic conversation)
